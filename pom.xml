@@ -20,6 +20,12 @@
       <url>http://10.3.13.20:8081/content/repositories/snapshots</url>
     </repository>
   </distributionManagement>
+  <scm>
+    <url>https://github.com/redsaz/helloworld.git</url>
+    <connection>scm:git:https://github.com/redsaz/helloworld.git</connection>
+    <developerConnection>scm:git:https://github.com/redsaz/helloworld.git</developerConnection>
+    <tag>HEAD</tag>
+  </scm>
     <dependencies>
         
         <!-- Logging -->
