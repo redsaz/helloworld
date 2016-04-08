@@ -3,7 +3,7 @@
 
     <groupId>com.redsaz</groupId>
     <artifactId>helloworld2</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <packaging>jar</packaging>
 
     <name>helloworld2</name>
@@ -23,7 +23,7 @@
     <url>https://github.com/redsaz/helloworld.git</url>
     <connection>scm:git:https://github.com/redsaz/helloworld.git</connection>
     <developerConnection>scm:git:https://github.com/redsaz/helloworld.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>helloworld2-1.1</tag>
   </scm>
     <dependencies>
         
